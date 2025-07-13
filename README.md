@@ -1,39 +1,6 @@
 # Apple iTunes Music Analysis Project
-Here's a comprehensive README file for the "Apple iTunes Music Analysis" project we've worked on, summarizing all the steps and insights.
 
-Apple iTunes Music Analysis Project
-Table of Contents
-Project Overview
 
-Problem Statement
-
-Business Goals
-
-Key Deliverables
-
-Data Source
-
-Database Setup (PostgreSQL)
-
-1. Relational Schema Design
-
-2. Create SQL Tables
-
-3. Establish Relationships
-
-4. Import Data (CSV to PostgreSQL)
-
-Exploratory & Advanced Analytics (SQL Queries)
-
-Business Dashboards (Power BI)
-
-Key Business Insights
-
-Recommendations
-
-Tools & Technologies
-
-Project Overview
 This project focuses on performing an end-to-end data analysis for an Apple iTunes digital music store. The goal is to transform raw CSV data into a structured relational database (PostgreSQL), extract actionable business insights using SQL queries, and visualize key performance indicators (KPIs) through a business dashboard (Power BI).
 
 Problem Statement
